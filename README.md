@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the factory method design pattern. For this project i made an application
+Simple project representing the factory method design pattern. 
 <br></br>
 
 
